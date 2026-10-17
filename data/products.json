@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "slug": "crown-polo-navy",
+    "name": "Crown Polo — Navy",
+    "price": 28500,
+    "description": "Heavyweight piqué polo with gold-toned OSF crown embroidery on the left chest. Cut to sit clean on the shoulders.",
+    "image": "https://images.unsplash.com/photo-1583764041740-57339953f861?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1583764041740-57339953f861?w=800&q=80",
+      "https://images.unsplash.com/photo-1593005931374-fb63e7603c4a?w=800&q=80"
+    ],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": ["#1a3a5c", "#ffffff", "#000000"]
+  },
+  {
+    "id": "2",
+    "slug": "crown-polo-olive",
+    "name": "Crown Polo — Olive",
+    "price": 28500,
+    "description": "Heavyweight piqué polo in earthy olive with gold-toned OSF crown embroidery. Beach comfort meets street luxury.",
+    "image": "https://images.unsplash.com/photo-1625973123871-b6854750e03e?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1625973123871-b6854750e03e?w=800&q=80",
+      "https://images.unsplash.com/photo-1608314830737-5e185a959a5b?w=800&q=80"
+    ],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": ["#4a5d3e", "#ffffff", "#000000"]
+  },
+  {
+    "id": "3",
+    "slug": "oxford-shirt-white",
+    "name": "Oxford Shirt — White",
+    "price": 34000,
+    "description": "Crisp cotton oxford with button-down collar and OSF mark at the cuff. Office to beach in one piece.",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e3a445edb?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e3a445edb?w=800&q=80",
+      "https://images.unsplash.com/photo-1602810358261-e0e664923f0b?w=800&q=80"
+    ],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": ["#ffffff", "#e8e8e8", "#d4d4d4"]
+  },
+  {
+    "id": "4",
+    "slug": "selvedge-jeans-indigo",
+    "name": "Selvedge Jeans — Indigo",
+    "price": 48000,
+    "description": "Japanese-style selvedge denim, raw indigo, straight cut. Heavy fabric that keeps its shape wash after wash.",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&q=80",
+      "https://images.unsplash.com/photo-1552854875-edbf8ef7970c?w=800&q=80"
+    ],
+    "sizes": ["30", "32", "34", "36", "38"],
+    "colors": ["#2c3e50", "#1a252f", "#0f172a"]
+  },
+  {
+    "id": "5",
+    "slug": "canvas-shorts-khaki",
+    "name": "Canvas Shorts — Khaki",
+    "price": 24000,
+    "description": "Mid-weight canvas shorts with OSF crown embroidery at the hem. Tailored for warm days and easy movement.",
+    "image": "https://images.unsplash.com/photo-1605933181621-7f276733b727?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1605933181621-7f276733b727?w=800&q=80",
+      "https://images.unsplash.com/photo-1590549916560-e1399a99001c?w=800&q=80"
+    ],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": ["#d4b78a", "#c5a059", "#b89b6a"]
+  },
+  {
+    "id": "6",
+    "slug": "signature-slides-black",
+    "name": "Signature Slides — Black",
+    "price": 16500,
+    "description": "Contoured footbed slides with embossed OSF crown strap. Slip-on luxury for after the beach or before the office.",
+    "image": "https://images.unsplash.com/photo-1608223548325-52f0de419f59?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1608223548325-52f0de419f59?w=800&q=80",
+      "https://images.unsplash.com/photo-1626814026160-227783169961?w=800&q=80"
+    ],
+    "sizes": ["6", "7", "8", "9", "10", "11", "12"],
+    "colors": ["#000000", "#ffffff", "#c5a059"]
+  }
+]
