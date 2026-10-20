@@ -164,7 +164,7 @@ export default function HomePage() {
                 gone.
               </p>
               <a
-                href="https://wa.me/2348000000000?text=Hi%20OSF%20Wears%2C%20I%20would%20like%20to%20place%20an%20order"
+                href="https://wa.me/447988581545?text=Hi%20OSF%20Wears%2C%20I%20would%20like%20to%20place%20an%20order"
                 className="btn-whatsapp bg-white text-charcoal hover:bg-crown-light"
               >
                 Order on WhatsApp
